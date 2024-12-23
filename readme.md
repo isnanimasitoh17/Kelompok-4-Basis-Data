@@ -1,5 +1,5 @@
 Kelompok 4
-## 📂 Konter Unieq
+## 📂 Pengembangan Proyek Basis Data Untuk Manajemen Konter Unieq
 - Dokumen 
   - 📘 Dokumentasi awal basis data_Kelompok 4.docx
   - 📙 Laporan Akhir Kelompok 4.docx
